@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e59ae02-58af-4168-b706-c9401295a400" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/uipack/FrameWithLabel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testtttttt/src/color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankInterface/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankInterface/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankInterface/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankInterface/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankInterface/bin/bankpack/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankInterface/bin/bankpack/BankClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankInterface/bin/bankpack/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankInterface/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankInterface/src/bankpack/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankInterface/src/bankpack/BankClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankInterface/src/bankpack/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankInterface/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Even_Odd/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Even_Odd/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Even_Odd/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Even_Odd/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Even_Odd/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Even_Odd/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/bin/exceptionpack/ExceptionHandling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/src/exceptionpack/ExceptionHandling.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Factorial/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Factorial/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Factorial/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Factorial/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Factorial/bin/factorialPackage/Fact.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Factorial/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Factorial/src/factorialPackage/Fact.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Factorial/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FibonacciSeries/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FibonacciSeries/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FibonacciSeries/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FibonacciSeries/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FibonacciSeries/bin/fibonacciseries/FibonacciSeries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FibonacciSeries/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FibonacciSeries/src/fibonacciseries/FibonacciSeries.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FibonacciSeries/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaUI/uipack/FrameOnly.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaUI/uipack/FrameOnly.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaUI/uipack/icon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MatrixAddition/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MatrixAddition/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MatrixAddition/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MatrixAddition/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MatrixAddition/bin/addpack/MatAdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MatrixAddition/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MatrixAddition/src/addpack/MatAdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MatrixAddition/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NoGuessGame/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NoGuessGame/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NoGuessGame/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NoGuessGame/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NoGuessGame/bin/guesspack/GuessNo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NoGuessGame/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NoGuessGame/src/guesspack/GuessNo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NoGuessGame/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OddNos/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OddNos/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OddNos/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OddNos/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OddNos/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OddNos/bin/packageOddNo/OddNos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OddNos/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OddNos/src/packageOddNo/OddNos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern1/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern1/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern1/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern1/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern1/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern1/bin/packagePattern/Pattern1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern1/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern1/src/packagePattern/Pattern1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RevereseString/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RevereseString/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RevereseString/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RevereseString/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RevereseString/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RevereseString/bin/reversePackage/ReverseString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RevereseString/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RevereseString/src/reversePackage/ReverseString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SearchArray/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SearchArray/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SearchArray/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SearchArray/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SearchArray/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SearchArray/bin/packageSearch/SearchArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SearchArray/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SearchArray/src/packageSearch/SearchArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortArray/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortArray/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortArray/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortArray/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortArray/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortArray/bin/packageSortArray/SortArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortArray/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortArray/src/packageSortArray/SortArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StdManagement/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StdManagement/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StdManagement/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StdManagement/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StdManagement/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StdManagement/bin/myPackage/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StdManagement/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StdManagement/src/myPackage/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/bin/mypackage/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/mypackage/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../countVowels/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../countVowels/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../countVowels/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../countVowels/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../countVowels/bin/countVowels/countVowels.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../countVowels/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../countVowels/src/countVowels/countVowels.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../countVowels/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/bin/test1/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/src/test1/Test.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sudeepp-Mishra&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:Sudeepp-Mishra/Random.java.git&quot;,
+    &quot;accountId&quot;: &quot;ee68ac10-3130-4cf3-9298-8ee288d18438&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2xaUthWK3mDdWtRd5sHqHBccYky" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.EventActionListener.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FrameOnly.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FrameWithButton.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FrameWithDifferentFields.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FrameWithLabel.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FrameWithMenu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FrameWithMenuu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FrameWithRadioAndCheckbox.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FrameWithTextField.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Framee.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sudeepdemishra/Documents/IntelliJ-IDEA/JavaUI&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/sudeepdemishra/Documents/IntelliJ-IDEA/JavaUI/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Framee" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Framee" />
+      <module name="JavaUI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.129" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.129" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e59ae02-58af-4168-b706-c9401295a400" name="Changes" comment="" />
+      <created>1748175896309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748175896309</updated>
+      <workItem from="1748175897347" duration="22997000" />
+      <workItem from="1748414527963" duration="3841000" />
+      <workItem from="1748493279120" duration="3191000" />
+      <workItem from="1748749976802" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

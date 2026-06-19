@@ -1,0 +1,23 @@
+1) React consider Tag ad data
+2) We can stare and return Tag
+3) function an return only one 
+4) use {} inside tag to perform js operation (+,-,.... variable call, )
+---
+basic of html 
+5)components 
+* Address
+Father
+Mother
+Info
+6)Props
+passing props other then sting
+getting props
+
+useState hook
+
+
+---
+react-router-dom  (NavLink)
+from
+hit api
+useEffect hook

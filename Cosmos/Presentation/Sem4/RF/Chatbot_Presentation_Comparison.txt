@@ -1,0 +1,33 @@
+1. INTRODUCTION
+K xa Style:
+"Yo project ma k xa bhane, ahile ko digital world ma dherai business haru le AI chatbot use garirakheko chan.
+Yo chatbot le customers lai 24/7 realtime ma help garxa – jasto ki product ko info dinu, appointment book garidinu, ya question ko answer dinu.
+Hamro project ma, yo chatbot lai ekdame ramro tool n8n sangai integrate garincha – jasko maddat le yo chatbot le backend ma email pathauna, data log garna ra records update garna sakxa.
+Yesto system le user ko experience ramro banaune, staff ko kaam kam garne, ani business lai boost garne."
+
+
+2. PROBLEM STATEMENT
+K xa Style:
+"Problem k xa bhane, jewelry jasto business ma trust ani quick response dherai important hunxa.
+Tara dherai chhoto business haru sanga yo sabai cover garna sakne system chaina.
+Hamro website ma ni kunai chatbot chaina, ani visitor haru lai kunai kura sodhna parcha bhane, manually reply ko laagi wait garnu parcha.
+Yo karanle manche haru frustate hunxa ani website bata niskinchan.
+So, solution k xa bhane, euta smart chatbot le instant support dinxa ani customer lai satisfy garxa."
+
+
+3. OBJECTIVES
+K xa Style:
+"Yo project ko main objective k xa bhane:
+• Euta chatbot develop garne, jasle product ko info dinxa, appointment book garxa, ani common questions ko answer dinxa.
+• Yo chatbot sanga n8n connect garera, email confirmation, data logging, ani records update automatically garne.
+• Chatbot lai 24/7 active rakhne – so jaba ni kunai user aayo, teslai instant support milos.
+• Ra sabai bhanda important kura – user ko experience lai smart, fast ra interactive banaune."
+
+
+4. SCOPE OF RESEARCH
+• Hami mainly **chatbot ko design** ra **n8n tool sanga connect garne kura** ma focus garxau.
+• Chatbot le **product ko availability sodhne**, **appointment booking garne**, ra **FAQ haru handle garne**.
+• Backend bata **email pathaune**, **data store garne** jasta kura automate garinchha.
+• Tara, yo project ma **advance AI jasto voice command** ya **prediction features** include garna chahandaina.
+• Yo project ko scope **basic ra practical features samma simit** cha.
+

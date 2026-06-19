@@ -1,0 +1,13 @@
+# Eclipse workspace folders
+.metadata/
+Servers/
+
+# Project build files
+_07_Servlet/target/
+_07_Servlet/.classpath
+_07_Servlet/.project
+_07_Servlet/.settings/
+_07_Servlet/*.jar
+
+# Mac system files
+.DS_Store
