@@ -1,0 +1,16 @@
+.success {
+    background-color: red ;
+    color : white;
+}
+.error {
+    background-color: green ;
+    color : white;
+}
+.warning{
+    background-color: orange ;
+    color : white;
+}
+
+.navlink{
+    margin-right: 20px;
+}

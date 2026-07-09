@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dom": "^0.0.3",
+    "react": "^19.2.7",
+    "react-router-dom": "^7.17.0",
+    "router": "^2.2.0"
+  }
+}
