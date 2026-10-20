@@ -1,0 +1,258 @@
+match_id,date,team1,team2,venue,city,toss_winner,toss_decision,winner,result_margin_type,result_margin,event_name,match_number,season,team1_won
+1.2.0_2003-02-09,2003-02-09,West Indies,South Africa,"Newlands, Cape Town",Cape Town,West Indies,bat,West Indies,runs,3,ICC World Cup,1.0,2002/03,1
+1.2.0_2003-02-10,2003-02-10,Zimbabwe,Namibia,Harare Sports Club,Harare,Namibia,field,Zimbabwe,runs,86,ICC World Cup,2.0,2002/03,1
+1.2.0_2003-02-10,2003-02-10,Sri Lanka,New Zealand,"Goodyear Park, Bloemfontein",Bloemfontein,New Zealand,field,Sri Lanka,runs,47,ICC World Cup,3.0,2002/03,1
+1.2.0_2003-02-11,2003-02-11,Canada,Bangladesh,"Kingsmead, Durban",Durban,Canada,bat,Canada,runs,60,ICC World Cup,5.0,2002/03,1
+1.2.0_2003-02-11,2003-02-11,Australia,Pakistan,"New Wanderers Stadium, Johannesburg",Johannesburg,Pakistan,field,Australia,runs,82,ICC World Cup,4.0,2002/03,1
+1.2.0_2003-02-12,2003-02-12,India,Netherlands,"Boland Bank Park, Paarl",Paarl,India,bat,India,runs,68,ICC World Cup,7.0,2002/03,1
+1.2.0_2003-02-12,2003-02-12,Kenya,South Africa,"North West Cricket Stadium, Potchefstroom",Potchefstroom,Kenya,bat,South Africa,wickets,10,ICC World Cup,6.0,2002/03,0
+1.2.0_2003-02-13,2003-02-13,New Zealand,West Indies,"St George's Park, Port Elizabeth",Gqeberha,West Indies,field,New Zealand,runs,20,ICC World Cup,9.0,2002/03,1
+1.2.0_2003-02-15,2003-02-15,Canada,Kenya,"Newlands, Cape Town",Cape Town,Canada,bat,Kenya,wickets,4,ICC World Cup,12.0,2002/03,0
+1.2.0_2003-02-15,2003-02-15,India,Australia,"SuperSport Park, Centurion",Centurion,India,bat,Australia,wickets,9,ICC World Cup,11.0,2002/03,0
+1.2.0_2003-02-16,2003-02-16,Pakistan,Namibia,"De Beers Diamond Oval, Kimberley",Kimberley,Pakistan,bat,Pakistan,runs,171,ICC World Cup,14.0,2002/03,1
+1.2.0_2003-02-16,2003-02-16,Netherlands,England,"Buffalo Park, East London",East London,England,field,England,wickets,6,ICC World Cup,13.0,2002/03,0
+1.2.0_2003-02-16,2003-02-16,South Africa,New Zealand,"New Wanderers Stadium, Johannesburg",Johannesburg,South Africa,bat,New Zealand,wickets,9,ICC World Cup,15.0,2002/03,0
+1.2.0_2003-02-19,2003-02-19,England,Namibia,"St George's Park, Port Elizabeth",Gqeberha,Namibia,field,England,runs,55,ICC World Cup,19.0,2002/03,1
+1.2.0_2003-02-19,2003-02-19,India,Zimbabwe,Harare Sports Club,Harare,Zimbabwe,field,India,runs,83,ICC World Cup,17.0,2002/03,1
+1.2.0_2003-02-19,2003-02-19,Canada,Sri Lanka,"Boland Bank Park, Paarl",Paarl,Sri Lanka,field,Sri Lanka,wickets,9,ICC World Cup,18.0,2002/03,0
+1.2.0_2003-02-22,2003-02-22,England,Pakistan,"Newlands, Cape Town",Cape Town,England,bat,England,runs,112,ICC World Cup,23.0,2002/03,1
+1.2.0_2003-02-22,2003-02-22,Bangladesh,South Africa,"Goodyear Park, Bloemfontein",Bloemfontein,South Africa,field,South Africa,wickets,10,ICC World Cup,22.0,2002/03,0
+1.2.0_2003-02-23,2003-02-23,India,Namibia,"City Oval, Pietermaritzburg",Pietermaritzburg,Namibia,field,India,runs,181,ICC World Cup,25.0,2002/03,1
+1.2.0_2003-02-23,2003-02-23,Canada,West Indies,"SuperSport Park, Centurion",Centurion,West Indies,field,West Indies,wickets,7,ICC World Cup,24.0,2002/03,0
+1.2.0_2003-02-24,2003-02-24,Zimbabwe,Australia,"Queens Sports Club, Bulawayo",Bulawayo,Zimbabwe,bat,Australia,wickets,7,ICC World Cup,27.0,2002/03,0
+1.2.0_2003-02-24,2003-02-24,Kenya,Sri Lanka,"Gymkhana Club Ground, Nairobi",Nairobi,Sri Lanka,field,Kenya,runs,53,ICC World Cup,26.0,2002/03,1
+1.2.0_2003-02-25,2003-02-25,Pakistan,Netherlands,"Boland Bank Park, Paarl",Paarl,Netherlands,field,Pakistan,runs,97,ICC World Cup,28.0,2002/03,1
+1.2.0_2003-02-26,2003-02-26,India,England,"Kingsmead, Durban",Durban,India,bat,India,runs,82,ICC World Cup,30.0,2002/03,1
+1.2.0_2003-02-26,2003-02-26,Bangladesh,New Zealand,"De Beers Diamond Oval, Kimberley",Kimberley,Bangladesh,bat,New Zealand,wickets,7,ICC World Cup,29.0,2002/03,0
+1.2.0_2003-02-27,2003-02-27,Australia,Namibia,"North West Cricket Stadium, Potchefstroom",Potchefstroom,Australia,bat,Australia,runs,256,ICC World Cup,31.0,2002/03,1
+1.2.0_2003-02-27,2003-02-27,South Africa,Canada,"Buffalo Park, East London",East London,Canada,field,South Africa,runs,118,ICC World Cup,32.0,2002/03,1
+1.2.0_2003-02-28,2003-02-28,Zimbabwe,Netherlands,"Queens Sports Club, Bulawayo",Bulawayo,Netherlands,field,Zimbabwe,runs,99,ICC World Cup,33.0,2002/03,1
+1.2.0_2003-02-28,2003-02-28,Sri Lanka,West Indies,"Newlands, Cape Town",Cape Town,Sri Lanka,bat,Sri Lanka,runs,6,ICC World Cup,34.0,2002/03,1
+1.2.0_2003-03-01,2003-03-01,Kenya,Bangladesh,"New Wanderers Stadium, Johannesburg",Johannesburg,Kenya,bat,Kenya,runs,32,ICC World Cup,35.0,2002/03,1
+1.2.0_2003-03-01,2003-03-01,Pakistan,India,"SuperSport Park, Centurion",Centurion,Pakistan,bat,India,wickets,6,ICC World Cup,36.0,2002/03,0
+1.2.0_2003-03-02,2003-03-02,England,Australia,"St George's Park, Port Elizabeth",Gqeberha,England,bat,Australia,wickets,2,ICC World Cup,37.0,2002/03,0
+1.2.0_2003-03-03,2003-03-03,Canada,New Zealand,"Willowmoore Park, Benoni",Benoni,New Zealand,field,New Zealand,wickets,5,ICC World Cup,38.0,2002/03,0
+1.2.0_2003-03-03,2003-03-03,Netherlands,Namibia,"Goodyear Park, Bloemfontein",Bloemfontein,Netherlands,bat,Netherlands,runs,64,ICC World Cup,39.0,2002/03,1
+1.2.0_2003-03-07,2003-03-07,Australia,Sri Lanka,"SuperSport Park, Centurion",Centurion,Australia,bat,Australia,runs,96,ICC World Cup,,2002/03,1
+1.2.0_2003-03-07,2003-03-07,Kenya,India,"Newlands, Cape Town",Cape Town,Kenya,bat,India,wickets,6,ICC World Cup,,2002/03,0
+1.2.0_2003-03-08,2003-03-08,Zimbabwe,New Zealand,"Goodyear Park, Bloemfontein",Bloemfontein,Zimbabwe,bat,New Zealand,wickets,6,ICC World Cup,,2002/03,0
+1.2.0_2003-03-10,2003-03-10,India,Sri Lanka,"New Wanderers Stadium, Johannesburg",Johannesburg,Sri Lanka,field,India,runs,183,ICC World Cup,,2002/03,1
+1.2.0_2003-03-11,2003-03-11,Australia,New Zealand,"St George's Park, Port Elizabeth",Gqeberha,New Zealand,field,Australia,runs,96,ICC World Cup,,2002/03,1
+1.2.0_2003-03-12,2003-03-12,Zimbabwe,Kenya,"Goodyear Park, Bloemfontein",Bloemfontein,Zimbabwe,bat,Kenya,wickets,7,ICC World Cup,,2002/03,0
+1.2.0_2003-03-14,2003-03-14,New Zealand,India,"SuperSport Park, Centurion",Centurion,India,field,India,wickets,7,ICC World Cup,,2002/03,0
+1.2.0_2003-03-15,2003-03-15,Kenya,Australia,"Kingsmead, Durban",Durban,Australia,field,Australia,wickets,5,ICC World Cup,,2002/03,0
+1.2.0_2003-03-15,2003-03-15,Sri Lanka,Zimbabwe,"Buffalo Park, East London",East London,Sri Lanka,bat,Sri Lanka,runs,74,ICC World Cup,,2002/03,1
+1.2.0_2003-03-18,2003-03-18,Australia,Sri Lanka,"St George's Park, Port Elizabeth",Gqeberha,Australia,bat,Australia,runs,48,ICC World Cup,,2002/03,1
+1.2.0_2003-03-20,2003-03-20,India,Kenya,"Kingsmead, Durban",Durban,India,bat,India,runs,91,ICC World Cup,,2002/03,1
+1.2.0_2003-03-23,2003-03-23,Australia,India,"New Wanderers Stadium, Johannesburg",Johannesburg,India,field,Australia,runs,125,ICC World Cup,,2002/03,1
+1.2.0_2007-03-13,2007-03-13,West Indies,Pakistan,"Sabina Park, Kingston",Jamaica,Pakistan,field,West Indies,runs,54,ICC World Cup,1.0,2006/07,1
+1.2.0_2007-03-14,2007-03-14,Australia,Scotland,"Warner Park, Basseterre",St Kitts,Scotland,field,Australia,runs,203,ICC World Cup,2.0,2006/07,1
+1.2.0_2007-03-15,2007-03-15,Bermuda,Sri Lanka,"Queen's Park Oval, Port of Spain",Trinidad,Sri Lanka,bat,Sri Lanka,runs,243,ICC World Cup,4.0,2006/07,0
+1.2.0_2007-03-16,2007-03-16,England,New Zealand,"Beausejour Stadium, Gros Islet",St Lucia,New Zealand,field,New Zealand,wickets,6,ICC World Cup,6.0,2006/07,0
+1.2.0_2007-03-16,2007-03-16,Netherlands,South Africa,"Warner Park, Basseterre",St Kitts,Netherlands,field,South Africa,runs,221,ICC World Cup,7.0,2006/07,0
+1.2.0_2007-03-17,2007-03-17,Ireland,Pakistan,"Sabina Park, Kingston",Jamaica,Ireland,field,Ireland,wickets,3,ICC World Cup,9.0,2006/07,1
+1.2.0_2007-03-17,2007-03-17,Bangladesh,India,"Queen's Park Oval, Port of Spain",Trinidad,India,bat,Bangladesh,wickets,5,ICC World Cup,8.0,2006/07,1
+1.2.0_2007-03-18,2007-03-18,Canada,England,"Beausejour Stadium, Gros Islet",St Lucia,Canada,field,England,runs,51,ICC World Cup,11.0,2006/07,0
+1.2.0_2007-03-18,2007-03-18,Australia,Netherlands,"Warner Park, Basseterre",St Kitts,Australia,bat,Australia,runs,229,ICC World Cup,10.0,2006/07,1
+1.2.0_2007-03-19,2007-03-19,Bermuda,India,"Queen's Park Oval, Port of Spain",Trinidad,Bermuda,field,India,runs,257,ICC World Cup,12.0,2006/07,0
+1.2.0_2007-03-19,2007-03-19,West Indies,Zimbabwe,"Sabina Park, Kingston",Jamaica,West Indies,field,West Indies,wickets,6,ICC World Cup,13.0,2006/07,1
+1.2.0_2007-03-20,2007-03-20,Scotland,South Africa,"Warner Park, Basseterre",St Kitts,South Africa,field,South Africa,wickets,7,ICC World Cup,15.0,2006/07,0
+1.2.0_2007-03-20,2007-03-20,Kenya,New Zealand,"Beausejour Stadium, Gros Islet",St Lucia,Kenya,field,New Zealand,runs,148,ICC World Cup,14.0,2006/07,0
+1.2.0_2007-03-21,2007-03-21,Bangladesh,Sri Lanka,"Queen's Park Oval, Port of Spain",Trinidad,Bangladesh,field,Sri Lanka,runs,198,ICC World Cup,16.0,2006/07,0
+1.2.0_2007-03-21,2007-03-21,Pakistan,Zimbabwe,"Sabina Park, Kingston",Jamaica,Zimbabwe,field,Pakistan,runs,93,ICC World Cup,17.0,2006/07,1
+1.2.0_2007-03-22,2007-03-22,Netherlands,Scotland,"Warner Park, Basseterre",St Kitts,Netherlands,field,Netherlands,wickets,8,ICC World Cup,19.0,2006/07,1
+1.2.0_2007-03-22,2007-03-22,Canada,New Zealand,"Beausejour Stadium, Gros Islet",St Lucia,Canada,field,New Zealand,runs,114,ICC World Cup,18.0,2006/07,0
+1.2.0_2007-03-23,2007-03-23,India,Sri Lanka,"Queen's Park Oval, Port of Spain",Trinidad,India,field,Sri Lanka,runs,69,ICC World Cup,20.0,2006/07,0
+1.2.0_2007-03-23,2007-03-23,West Indies,Ireland,"Sabina Park, Kingston",Jamaica,Ireland,bat,West Indies,wickets,8,ICC World Cup,21.0,2006/07,1
+1.2.0_2007-03-24,2007-03-24,England,Kenya,"Beausejour Stadium, Gros Islet",St Lucia,Kenya,bat,England,wickets,7,ICC World Cup,23.0,2006/07,1
+1.2.0_2007-03-24,2007-03-24,Australia,South Africa,"Warner Park, Basseterre",St Kitts,South Africa,field,Australia,runs,83,ICC World Cup,22.0,2006/07,1
+1.2.0_2007-03-25,2007-03-25,Bangladesh,Bermuda,"Queen's Park Oval, Port of Spain",Trinidad,Bangladesh,field,Bangladesh,wickets,7,ICC World Cup,24.0,2006/07,1
+1.2.0_2007-03-27,2007-03-27,West Indies,Australia,"Sir Vivian Richards Stadium, North Sound",Antigua,West Indies,field,Australia,runs,103,ICC World Cup,25.0,2006/07,0
+1.2.0_2007-03-28,2007-03-28,South Africa,Sri Lanka,Providence Stadium,Guyana,Sri Lanka,bat,South Africa,wickets,1,ICC World Cup,26.0,2006/07,1
+1.2.0_2007-03-29,2007-03-29,West Indies,New Zealand,"Sir Vivian Richards Stadium, North Sound",Antigua,New Zealand,field,New Zealand,wickets,7,ICC World Cup,27.0,2006/07,0
+1.2.0_2007-03-30,2007-03-30,England,Ireland,Providence Stadium,Guyana,England,bat,England,runs,48,ICC World Cup,28.0,2006/07,1
+1.2.0_2007-03-31,2007-03-31,Australia,Bangladesh,"Sir Vivian Richards Stadium, North Sound",Antigua,Australia,field,Australia,wickets,10,ICC World Cup,29.0,2006/07,1
+1.2.0_2007-04-01,2007-04-01,West Indies,Sri Lanka,Providence Stadium,Guyana,West Indies,field,Sri Lanka,runs,113,ICC World Cup,30.0,2006/07,0
+1.2.0_2007-04-02,2007-04-02,Bangladesh,New Zealand,"Sir Vivian Richards Stadium, North Sound",Antigua,New Zealand,field,New Zealand,wickets,9,ICC World Cup,31.0,2006/07,0
+1.2.0_2007-04-03,2007-04-03,Ireland,South Africa,Providence Stadium,Guyana,South Africa,field,South Africa,wickets,7,ICC World Cup,32.0,2006/07,0
+1.2.0_2007-04-04,2007-04-04,England,Sri Lanka,"Sir Vivian Richards Stadium, North Sound",Antigua,England,field,Sri Lanka,runs,2,ICC World Cup,33.0,2006/07,0
+1.2.0_2007-04-07,2007-04-07,Bangladesh,South Africa,Providence Stadium,Guyana,South Africa,field,Bangladesh,runs,67,ICC World Cup,34.0,2006/07,1
+1.2.0_2007-04-08,2007-04-08,Australia,England,"Sir Vivian Richards Stadium, North Sound",Antigua,England,bat,Australia,wickets,7,ICC World Cup,35.0,2006/07,1
+1.2.0_2007-04-09,2007-04-09,Ireland,New Zealand,Providence Stadium,Guyana,New Zealand,bat,New Zealand,runs,129,ICC World Cup,36.0,2006/07,0
+1.2.0_2007-04-10,2007-04-10,West Indies,South Africa,"National Cricket Stadium, St George's",Grenada,West Indies,field,South Africa,runs,67,ICC World Cup,37.0,2006/07,0
+1.2.0_2007-04-11,2007-04-11,Bangladesh,England,"Kensington Oval, Bridgetown",Barbados,England,field,England,wickets,4,ICC World Cup,38.0,2006/07,0
+1.2.0_2007-04-12,2007-04-12,New Zealand,Sri Lanka,"National Cricket Stadium, St George's",Grenada,New Zealand,bat,Sri Lanka,wickets,6,ICC World Cup,39.0,2006/07,0
+1.2.0_2007-04-13,2007-04-13,Australia,Ireland,"Kensington Oval, Bridgetown",Barbados,Australia,field,Australia,wickets,9,ICC World Cup,40.0,2006/07,1
+1.2.0_2007-04-14,2007-04-14,New Zealand,South Africa,"National Cricket Stadium, St George's",Grenada,New Zealand,field,New Zealand,wickets,5,ICC World Cup,41.0,2006/07,1
+1.2.0_2007-04-15,2007-04-15,Bangladesh,Ireland,"Kensington Oval, Bridgetown",Barbados,Ireland,bat,Ireland,runs,74,ICC World Cup,42.0,2006/07,0
+1.2.0_2007-04-16,2007-04-16,Australia,Sri Lanka,"National Cricket Stadium, St George's",Grenada,Sri Lanka,bat,Australia,wickets,7,ICC World Cup,43.0,2006/07,1
+1.2.0_2007-04-17,2007-04-17,England,South Africa,"Kensington Oval, Bridgetown",Barbados,England,bat,South Africa,wickets,9,ICC World Cup,44.0,2006/07,0
+1.2.0_2007-04-18,2007-04-18,Ireland,Sri Lanka,"National Cricket Stadium, St George's",Grenada,Sri Lanka,field,Sri Lanka,wickets,8,ICC World Cup,45.0,2006/07,0
+1.2.0_2007-04-19,2007-04-19,West Indies,Bangladesh,"Kensington Oval, Bridgetown",Barbados,Bangladesh,field,West Indies,runs,99,ICC World Cup,46.0,2006/07,1
+1.2.0_2007-04-20,2007-04-20,Australia,New Zealand,"National Cricket Stadium, St George's",Grenada,Australia,bat,Australia,runs,215,ICC World Cup,47.0,2006/07,1
+1.2.0_2007-04-21,2007-04-21,West Indies,England,"Kensington Oval, Bridgetown",Barbados,England,field,England,wickets,1,ICC World Cup,48.0,2006/07,0
+1.2.0_2007-04-24,2007-04-24,New Zealand,Sri Lanka,"Sabina Park, Kingston",Jamaica,Sri Lanka,bat,Sri Lanka,runs,81,ICC World Cup,,2006/07,0
+1.2.0_2007-04-25,2007-04-25,Australia,South Africa,"Beausejour Stadium, Gros Islet",St Lucia,South Africa,bat,Australia,wickets,7,ICC World Cup,,2006/07,1
+1.2.0_2007-04-28,2007-04-28,Australia,Sri Lanka,"Kensington Oval, Bridgetown",Barbados,Australia,bat,Australia,runs,53,ICC World Cup,,2006/07,1
+1.2.0_2011-02-19,2011-02-19,Bangladesh,India,Shere Bangla National Stadium,Mirpur,Bangladesh,field,India,runs,87,ICC Cricket World Cup,1.0,2010/11,0
+1.2.0_2011-02-20,2011-02-20,Sri Lanka,Canada,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Hambantota,Sri Lanka,bat,Sri Lanka,runs,210,ICC Cricket World Cup,3.0,2010/11,1
+1.2.0_2011-02-20,2011-02-20,Kenya,New Zealand,"MA Chidambaram Stadium, Chepauk",Chennai,Kenya,bat,New Zealand,wickets,10,ICC Cricket World Cup,2.0,2010/11,0
+1.2.0_2011-02-21,2011-02-21,Australia,Zimbabwe,"Sardar Patel Stadium, Motera",Ahmedabad,Australia,bat,Australia,runs,91,ICC Cricket World Cup,4.0,2010/11,1
+1.2.0_2011-02-22,2011-02-22,England,Netherlands,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,Netherlands,bat,England,wickets,6,ICC Cricket World Cup,5.0,2010/11,1
+1.2.0_2011-02-23,2011-02-23,Kenya,Pakistan,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Hambantota,Pakistan,bat,Pakistan,runs,205,ICC Cricket World Cup,6.0,2010/11,0
+1.2.0_2011-02-24,2011-02-24,South Africa,West Indies,Feroz Shah Kotla,Delhi,South Africa,field,South Africa,wickets,7,ICC Cricket World Cup,7.0,2010/11,1
+1.2.0_2011-02-25,2011-02-25,Bangladesh,Ireland,Shere Bangla National Stadium,Mirpur,Bangladesh,bat,Bangladesh,runs,27,ICC Cricket World Cup,9.0,2010/11,1
+1.2.0_2011-02-25,2011-02-25,Australia,New Zealand,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,Australia,field,Australia,wickets,7,ICC Cricket World Cup,8.0,2010/11,1
+1.2.0_2011-02-26,2011-02-26,Sri Lanka,Pakistan,R Premadasa Stadium,Colombo,Pakistan,bat,Pakistan,runs,11,ICC Cricket World Cup,10.0,2010/11,0
+1.2.0_2011-02-28,2011-02-28,Canada,Zimbabwe,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,Zimbabwe,bat,Zimbabwe,runs,175,ICC Cricket World Cup,12.0,2010/11,0
+1.2.0_2011-02-28,2011-02-28,Netherlands,West Indies,Feroz Shah Kotla,Delhi,Netherlands,field,West Indies,runs,215,ICC Cricket World Cup,13.0,2010/11,0
+1.2.0_2011-03-01,2011-03-01,Sri Lanka,Kenya,R Premadasa Stadium,Colombo,Kenya,bat,Sri Lanka,wickets,9,ICC Cricket World Cup,14.0,2010/11,1
+1.2.0_2011-03-02,2011-03-02,England,Ireland,M Chinnaswamy Stadium,Bangalore,England,bat,Ireland,wickets,3,ICC Cricket World Cup,15.0,2010/11,0
+1.2.0_2011-03-03,2011-03-03,Canada,Pakistan,R Premadasa Stadium,Colombo,Pakistan,bat,Pakistan,runs,46,ICC Cricket World Cup,17.0,2010/11,0
+1.2.0_2011-03-03,2011-03-03,Netherlands,South Africa,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Netherlands,field,South Africa,runs,231,ICC Cricket World Cup,16.0,2010/11,0
+1.2.0_2011-03-04,2011-03-04,Bangladesh,West Indies,Shere Bangla National Stadium,Mirpur,Bangladesh,bat,West Indies,wickets,9,ICC Cricket World Cup,19.0,2010/11,0
+1.2.0_2011-03-04,2011-03-04,New Zealand,Zimbabwe,"Sardar Patel Stadium, Motera",Ahmedabad,Zimbabwe,bat,New Zealand,wickets,10,ICC Cricket World Cup,18.0,2010/11,1
+1.2.0_2011-03-06,2011-03-06,England,South Africa,"MA Chidambaram Stadium, Chepauk",Chennai,England,bat,England,runs,6,ICC Cricket World Cup,21.0,2010/11,1
+1.2.0_2011-03-06,2011-03-06,India,Ireland,M Chinnaswamy Stadium,Bangalore,India,field,India,wickets,5,ICC Cricket World Cup,22.0,2010/11,1
+1.2.0_2011-03-07,2011-03-07,Canada,Kenya,Feroz Shah Kotla,Delhi,Kenya,bat,Canada,wickets,5,ICC Cricket World Cup,23.0,2010/11,1
+1.2.0_2011-03-08,2011-03-08,New Zealand,Pakistan,Pallekele International Cricket Stadium,,New Zealand,bat,New Zealand,runs,110,ICC Cricket World Cup,24.0,2010/11,1
+1.2.0_2011-03-09,2011-03-09,India,Netherlands,Feroz Shah Kotla,Delhi,Netherlands,bat,India,wickets,5,ICC Cricket World Cup,25.0,2010/11,1
+1.2.0_2011-03-10,2011-03-10,Sri Lanka,Zimbabwe,Pallekele International Cricket Stadium,,Zimbabwe,field,Sri Lanka,runs,139,ICC Cricket World Cup,26.0,2010/11,1
+1.2.0_2011-03-11,2011-03-11,Ireland,West Indies,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Ireland,field,West Indies,runs,44,ICC Cricket World Cup,27.0,2010/11,0
+1.2.0_2011-03-11,2011-03-11,Bangladesh,England,Zahur Ahmed Chowdhury Stadium,Chittagong,Bangladesh,field,Bangladesh,wickets,2,ICC Cricket World Cup,28.0,2010/11,1
+1.2.0_2011-03-12,2011-03-12,India,South Africa,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,India,bat,South Africa,wickets,3,ICC Cricket World Cup,29.0,2010/11,0
+1.2.0_2011-03-13,2011-03-13,Australia,Kenya,M Chinnaswamy Stadium,Bangalore,Australia,bat,Australia,runs,60,ICC Cricket World Cup,31.0,2010/11,1
+1.2.0_2011-03-13,2011-03-13,Canada,New Zealand,Wankhede Stadium,Mumbai,Canada,field,New Zealand,runs,97,ICC Cricket World Cup,30.0,2010/11,0
+1.2.0_2011-03-14,2011-03-14,Pakistan,Zimbabwe,Pallekele International Cricket Stadium,,Zimbabwe,bat,Pakistan,wickets,7,ICC Cricket World Cup,33.0,2010/11,1
+1.2.0_2011-03-14,2011-03-14,Bangladesh,Netherlands,Zahur Ahmed Chowdhury Stadium,Chittagong,Netherlands,bat,Bangladesh,wickets,6,ICC Cricket World Cup,32.0,2010/11,1
+1.2.0_2011-03-15,2011-03-15,Ireland,South Africa,Eden Gardens,Kolkata,Ireland,field,South Africa,runs,131,ICC Cricket World Cup,34.0,2010/11,0
+1.2.0_2011-03-16,2011-03-16,Australia,Canada,M Chinnaswamy Stadium,Bangalore,Canada,bat,Australia,wickets,7,ICC Cricket World Cup,35.0,2010/11,1
+1.2.0_2011-03-17,2011-03-17,England,West Indies,"MA Chidambaram Stadium, Chepauk",Chennai,England,bat,England,runs,18,ICC Cricket World Cup,36.0,2010/11,1
+1.2.0_2011-03-18,2011-03-18,Ireland,Netherlands,Eden Gardens,Kolkata,Ireland,field,Ireland,wickets,6,ICC Cricket World Cup,37.0,2010/11,1
+1.2.0_2011-03-18,2011-03-18,New Zealand,Sri Lanka,Wankhede Stadium,Mumbai,Sri Lanka,bat,Sri Lanka,runs,112,ICC Cricket World Cup,38.0,2010/11,0
+1.2.0_2011-03-19,2011-03-19,Bangladesh,South Africa,Shere Bangla National Stadium,Mirpur,South Africa,bat,South Africa,runs,206,ICC Cricket World Cup,39.0,2010/11,0
+1.2.0_2011-03-19,2011-03-19,Australia,Pakistan,R Premadasa Stadium,Colombo,Australia,bat,Pakistan,wickets,4,ICC Cricket World Cup,40.0,2010/11,0
+1.2.0_2011-03-20,2011-03-20,Kenya,Zimbabwe,Eden Gardens,Kolkata,Zimbabwe,bat,Zimbabwe,runs,161,ICC Cricket World Cup,41.0,2010/11,0
+1.2.0_2011-03-20,2011-03-20,India,West Indies,"MA Chidambaram Stadium, Chepauk",Chennai,India,bat,India,runs,80,ICC Cricket World Cup,42.0,2010/11,1
+1.2.0_2011-03-23,2011-03-23,Pakistan,West Indies,Shere Bangla National Stadium,Mirpur,West Indies,bat,Pakistan,wickets,10,ICC Cricket World Cup,,2010/11,1
+1.2.0_2011-03-24,2011-03-24,India,Australia,"Sardar Patel Stadium, Motera",Ahmedabad,Australia,bat,India,wickets,5,ICC Cricket World Cup,,2010/11,1
+1.2.0_2011-03-25,2011-03-25,New Zealand,South Africa,Shere Bangla National Stadium,Mirpur,New Zealand,bat,New Zealand,runs,49,ICC Cricket World Cup,,2010/11,1
+1.2.0_2011-03-26,2011-03-26,Sri Lanka,England,R Premadasa Stadium,Colombo,England,bat,Sri Lanka,wickets,10,ICC Cricket World Cup,,2010/11,1
+1.2.0_2011-03-29,2011-03-29,Sri Lanka,New Zealand,R Premadasa Stadium,Colombo,New Zealand,bat,Sri Lanka,wickets,5,ICC Cricket World Cup,,2010/11,1
+1.2.0_2011-03-30,2011-03-30,India,Pakistan,"Punjab Cricket Association Stadium, Mohali",Chandigarh,India,bat,India,runs,29,ICC Cricket World Cup,,2010/11,1
+1.2.0_2011-04-02,2011-04-02,India,Sri Lanka,Wankhede Stadium,Mumbai,Sri Lanka,bat,India,wickets,6,ICC Cricket World Cup,,2010/11,1
+1.2.0_2015-02-14,2015-02-14,Australia,England,Melbourne Cricket Ground,,England,field,Australia,runs,111,ICC Cricket World Cup,2.0,2014/15,1
+1.2.0_2015-02-14,2015-02-14,New Zealand,Sri Lanka,Hagley Oval,Christchurch,Sri Lanka,field,New Zealand,runs,98,ICC Cricket World Cup,1.0,2014/15,1
+1.2.0_2015-02-15,2015-02-15,South Africa,Zimbabwe,Seddon Park,Hamilton,Zimbabwe,field,South Africa,runs,62,ICC Cricket World Cup,3.0,2014/15,1
+1.2.0_2015-02-15,2015-02-15,India,Pakistan,Adelaide Oval,,India,bat,India,runs,76,ICC Cricket World Cup,4.0,2014/15,1
+1.2.0_2015-02-16,2015-02-16,Ireland,West Indies,Saxton Oval,Nelson,Ireland,field,Ireland,wickets,4,ICC Cricket World Cup,5.0,2014/15,1
+1.2.0_2015-02-17,2015-02-17,New Zealand,Scotland,University Oval,Dunedin,New Zealand,field,New Zealand,wickets,3,ICC Cricket World Cup,6.0,2014/15,1
+1.2.0_2015-02-19,2015-02-19,United Arab Emirates,Zimbabwe,Saxton Oval,Nelson,Zimbabwe,field,Zimbabwe,wickets,4,ICC Cricket World Cup,8.0,2014/15,0
+1.2.0_2015-02-20,2015-02-20,New Zealand,England,Westpac Stadium,Wellington,England,bat,New Zealand,wickets,8,ICC Cricket World Cup,9.0,2014/15,1
+1.2.0_2015-02-21,2015-02-21,Pakistan,West Indies,Hagley Oval,Christchurch,Pakistan,field,West Indies,runs,150,ICC Cricket World Cup,10.0,2014/15,0
+1.2.0_2015-02-22,2015-02-22,India,South Africa,Melbourne Cricket Ground,,India,bat,India,runs,130,ICC Cricket World Cup,13.0,2014/15,1
+1.2.0_2015-02-23,2015-02-23,England,Scotland,Hagley Oval,Christchurch,Scotland,field,England,runs,119,ICC Cricket World Cup,14.0,2014/15,1
+1.2.0_2015-02-24,2015-02-24,West Indies,Zimbabwe,Manuka Oval,Canberra,West Indies,bat,West Indies,runs,73,ICC Cricket World Cup,15.0,2014/15,1
+1.2.0_2015-02-25,2015-02-25,Ireland,United Arab Emirates,"Brisbane Cricket Ground, Woolloongabba",Brisbane,Ireland,field,Ireland,wickets,2,ICC Cricket World Cup,16.0,2014/15,1
+1.2.0_2015-02-26,2015-02-26,Bangladesh,Sri Lanka,Melbourne Cricket Ground,,Sri Lanka,bat,Sri Lanka,runs,92,ICC Cricket World Cup,18.0,2014/15,0
+1.2.0_2015-02-27,2015-02-27,South Africa,West Indies,Sydney Cricket Ground,,South Africa,bat,South Africa,runs,257,ICC Cricket World Cup,19.0,2014/15,1
+1.2.0_2015-02-28,2015-02-28,New Zealand,Australia,Eden Park,Auckland,Australia,bat,New Zealand,wickets,1,ICC Cricket World Cup,20.0,2014/15,1
+1.2.0_2015-02-28,2015-02-28,India,United Arab Emirates,Western Australia Cricket Association Ground,Perth,United Arab Emirates,bat,India,wickets,9,ICC Cricket World Cup,21.0,2014/15,1
+1.2.0_2015-03-01,2015-03-01,Pakistan,Zimbabwe,"Brisbane Cricket Ground, Woolloongabba",Brisbane,Pakistan,bat,Pakistan,runs,20,ICC Cricket World Cup,23.0,2014/15,1
+1.2.0_2015-03-01,2015-03-01,England,Sri Lanka,Westpac Stadium,Wellington,England,bat,Sri Lanka,wickets,9,ICC Cricket World Cup,22.0,2014/15,0
+1.2.0_2015-03-03,2015-03-03,Ireland,South Africa,Manuka Oval,Canberra,South Africa,bat,South Africa,runs,201,ICC Cricket World Cup,24.0,2014/15,0
+1.2.0_2015-03-04,2015-03-04,Pakistan,United Arab Emirates,McLean Park,Napier,United Arab Emirates,field,Pakistan,runs,129,ICC Cricket World Cup,25.0,2014/15,1
+1.2.0_2015-03-05,2015-03-05,Bangladesh,Scotland,Saxton Oval,Nelson,Bangladesh,field,Bangladesh,wickets,6,ICC Cricket World Cup,27.0,2014/15,1
+1.2.0_2015-03-06,2015-03-06,India,West Indies,Western Australia Cricket Association Ground,Perth,West Indies,bat,India,wickets,4,ICC Cricket World Cup,28.0,2014/15,1
+1.2.0_2015-03-07,2015-03-07,Pakistan,South Africa,Eden Park,Auckland,South Africa,field,Pakistan,runs,29,ICC Cricket World Cup,29.0,2014/15,1
+1.2.0_2015-03-07,2015-03-07,Ireland,Zimbabwe,Bellerive Oval,Hobart,Zimbabwe,field,Ireland,runs,5,ICC Cricket World Cup,30.0,2014/15,1
+1.2.0_2015-03-08,2015-03-08,Australia,Sri Lanka,Sydney Cricket Ground,,Australia,bat,Australia,runs,64,ICC Cricket World Cup,32.0,2014/15,1
+1.2.0_2015-03-09,2015-03-09,Bangladesh,England,Adelaide Oval,,England,field,Bangladesh,runs,15,ICC Cricket World Cup,33.0,2014/15,1
+1.2.0_2015-03-10,2015-03-10,India,Ireland,Seddon Park,Hamilton,Ireland,bat,India,wickets,8,ICC Cricket World Cup,34.0,2014/15,1
+1.2.0_2015-03-11,2015-03-11,Scotland,Sri Lanka,Bellerive Oval,Hobart,Sri Lanka,bat,Sri Lanka,runs,148,ICC Cricket World Cup,35.0,2014/15,0
+1.2.0_2015-03-12,2015-03-12,South Africa,United Arab Emirates,Westpac Stadium,Wellington,United Arab Emirates,field,South Africa,runs,146,ICC Cricket World Cup,36.0,2014/15,1
+1.2.0_2015-03-13,2015-03-13,New Zealand,Bangladesh,Seddon Park,Hamilton,New Zealand,field,New Zealand,wickets,3,ICC Cricket World Cup,37.0,2014/15,1
+1.2.0_2015-03-14,2015-03-14,India,Zimbabwe,Eden Park,Auckland,India,field,India,wickets,6,ICC Cricket World Cup,39.0,2014/15,1
+1.2.0_2015-03-14,2015-03-14,Australia,Scotland,Bellerive Oval,Hobart,Australia,field,Australia,wickets,7,ICC Cricket World Cup,40.0,2014/15,1
+1.2.0_2015-03-15,2015-03-15,United Arab Emirates,West Indies,McLean Park,Napier,West Indies,field,West Indies,wickets,6,ICC Cricket World Cup,41.0,2014/15,0
+1.2.0_2015-03-15,2015-03-15,Ireland,Pakistan,Adelaide Oval,,Ireland,bat,Pakistan,wickets,7,ICC Cricket World Cup,42.0,2014/15,0
+1.2.0_2015-03-18,2015-03-18,South Africa,Sri Lanka,Sydney Cricket Ground,,Sri Lanka,bat,South Africa,wickets,9,ICC Cricket World Cup,,2014/15,1
+1.2.0_2015-03-19,2015-03-19,Bangladesh,India,Melbourne Cricket Ground,,India,bat,India,runs,109,ICC Cricket World Cup,,2014/15,0
+1.2.0_2015-03-20,2015-03-20,Australia,Pakistan,Adelaide Oval,,Pakistan,bat,Australia,wickets,6,ICC Cricket World Cup,,2014/15,1
+1.2.0_2015-03-21,2015-03-21,New Zealand,West Indies,Westpac Stadium,Wellington,New Zealand,bat,New Zealand,runs,143,ICC Cricket World Cup,,2014/15,1
+1.2.0_2015-03-24,2015-03-24,New Zealand,South Africa,Eden Park,Auckland,South Africa,bat,New Zealand,wickets,4,ICC Cricket World Cup,,2014/15,1
+1.2.0_2015-03-26,2015-03-26,Australia,India,Sydney Cricket Ground,,Australia,bat,Australia,runs,95,ICC Cricket World Cup,,2014/15,1
+1.2.0_2015-03-29,2015-03-29,Australia,New Zealand,Melbourne Cricket Ground,,New Zealand,bat,Australia,wickets,7,ICC Cricket World Cup,,2014/15,1
+1.2.0_2019-05-30,2019-05-30,England,South Africa,Kennington Oval,London,South Africa,field,England,runs,104,World Cup,1.0,2019,1
+1.2.0_2019-05-31,2019-05-31,Pakistan,West Indies,Trent Bridge,Nottingham,West Indies,field,West Indies,wickets,7,World Cup,2.0,2019,0
+1.2.0_2019-06-01,2019-06-01,New Zealand,Sri Lanka,Sophia Gardens,Cardiff,New Zealand,field,New Zealand,wickets,10,World Cup,3.0,2019,1
+1.2.0_2019-06-02,2019-06-02,Bangladesh,South Africa,Kennington Oval,London,South Africa,field,Bangladesh,runs,21,World Cup,5.0,2019,1
+1.2.0_2019-06-03,2019-06-03,England,Pakistan,Trent Bridge,Nottingham,England,field,Pakistan,runs,14,World Cup,6.0,2019,0
+1.2.0_2019-06-05,2019-06-05,India,South Africa,The Rose Bowl,Southampton,South Africa,bat,India,wickets,6,World Cup,8.0,2019,1
+1.2.0_2019-06-05,2019-06-05,Bangladesh,New Zealand,Kennington Oval,London,New Zealand,field,New Zealand,wickets,2,World Cup,9.0,2019,0
+1.2.0_2019-06-06,2019-06-06,Australia,West Indies,Trent Bridge,Nottingham,West Indies,field,Australia,runs,15,World Cup,10.0,2019,1
+1.2.0_2019-06-08,2019-06-08,England,Bangladesh,Sophia Gardens,Cardiff,Bangladesh,field,England,runs,106,World Cup,12.0,2019,1
+1.2.0_2019-06-09,2019-06-09,Australia,India,Kennington Oval,London,India,bat,India,runs,36,World Cup,14.0,2019,0
+1.2.0_2019-06-12,2019-06-12,Australia,Pakistan,The Cooper Associates County Ground,Taunton,Pakistan,field,Australia,runs,41,World Cup,17.0,2019,1
+1.2.0_2019-06-14,2019-06-14,England,West Indies,The Rose Bowl,Southampton,England,field,England,wickets,8,World Cup,19.0,2019,1
+1.2.0_2019-06-15,2019-06-15,Australia,Sri Lanka,Kennington Oval,London,Sri Lanka,field,Australia,runs,87,World Cup,20.0,2019,1
+1.2.0_2019-06-16,2019-06-16,India,Pakistan,Old Trafford,Manchester,Pakistan,field,India,runs,89,World Cup,22.0,2019,1
+1.2.0_2019-06-17,2019-06-17,Bangladesh,West Indies,The Cooper Associates County Ground,Taunton,Bangladesh,field,Bangladesh,wickets,7,World Cup,23.0,2019,1
+1.2.0_2019-06-19,2019-06-19,New Zealand,South Africa,Edgbaston,Birmingham,New Zealand,field,New Zealand,wickets,4,World Cup,25.0,2019,1
+1.2.0_2019-06-20,2019-06-20,Australia,Bangladesh,Trent Bridge,Nottingham,Australia,bat,Australia,runs,48,World Cup,26.0,2019,1
+1.2.0_2019-06-21,2019-06-21,England,Sri Lanka,Headingley,Leeds,Sri Lanka,bat,Sri Lanka,runs,20,World Cup,27.0,2019,0
+1.2.0_2019-06-22,2019-06-22,New Zealand,West Indies,Old Trafford,Manchester,West Indies,field,New Zealand,runs,5,World Cup,29.0,2019,1
+1.2.0_2019-06-23,2019-06-23,Pakistan,South Africa,Lord's,London,Pakistan,bat,Pakistan,runs,49,World Cup,30.0,2019,1
+1.2.0_2019-06-25,2019-06-25,England,Australia,Lord's,London,England,field,Australia,runs,64,World Cup,32.0,2019,0
+1.2.0_2019-06-26,2019-06-26,New Zealand,Pakistan,Edgbaston,Birmingham,New Zealand,bat,Pakistan,wickets,6,World Cup,33.0,2019,0
+1.2.0_2019-06-27,2019-06-27,India,West Indies,Old Trafford,Manchester,India,bat,India,runs,125,World Cup,34.0,2019,1
+1.2.0_2019-06-28,2019-06-28,South Africa,Sri Lanka,Riverside Ground,Chester-le-Street,South Africa,field,South Africa,wickets,9,World Cup,35.0,2019,1
+1.2.0_2019-06-29,2019-06-29,Australia,New Zealand,Lord's,London,Australia,bat,Australia,runs,86,World Cup,37.0,2019,1
+1.2.0_2019-06-30,2019-06-30,England,India,Edgbaston,Birmingham,England,bat,England,runs,31,World Cup,38.0,2019,1
+1.2.0_2019-07-01,2019-07-01,Sri Lanka,West Indies,Riverside Ground,Chester-le-Street,West Indies,field,Sri Lanka,runs,23,World Cup,39.0,2019,1
+1.2.0_2019-07-02,2019-07-02,Bangladesh,India,Edgbaston,Birmingham,India,bat,India,runs,28,World Cup,40.0,2019,0
+1.2.0_2019-07-03,2019-07-03,England,New Zealand,Riverside Ground,Chester-le-Street,England,bat,England,runs,119,World Cup,41.0,2019,1
+1.2.0_2019-07-05,2019-07-05,Bangladesh,Pakistan,Lord's,London,Pakistan,bat,Pakistan,runs,94,World Cup,43.0,2019,0
+1.2.0_2019-07-06,2019-07-06,India,Sri Lanka,Headingley,Leeds,Sri Lanka,bat,India,wickets,7,World Cup,44.0,2019,1
+1.2.0_2019-07-06,2019-07-06,Australia,South Africa,Old Trafford,Manchester,South Africa,bat,South Africa,runs,10,World Cup,45.0,2019,0
+1.2.0_2019-07-09,2019-07-09,India,New Zealand,Old Trafford,Manchester,New Zealand,bat,New Zealand,runs,18,World Cup,,2019,0
+1.2.0_2019-07-11,2019-07-11,Australia,England,Edgbaston,Birmingham,Australia,bat,England,wickets,8,World Cup,,2019,0
+1.2.0_2023-10-05,2023-10-05,England,New Zealand,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,New Zealand,field,New Zealand,wickets,9,ICC Cricket World Cup,1.0,2023/24,0
+1.2.0_2023-10-06,2023-10-06,Pakistan,Netherlands,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Netherlands,field,Pakistan,runs,81,ICC Cricket World Cup,2.0,2023/24,1
+1.2.0_2023-10-07,2023-10-07,South Africa,Sri Lanka,"Arun Jaitley Stadium, Delhi",Delhi,Sri Lanka,field,South Africa,runs,102,ICC Cricket World Cup,4.0,2023/24,1
+1.2.0_2023-10-08,2023-10-08,Australia,India,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Australia,bat,India,wickets,6,ICC Cricket World Cup,5.0,2023/24,0
+1.2.0_2023-10-09,2023-10-09,New Zealand,Netherlands,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Netherlands,field,New Zealand,runs,99,ICC Cricket World Cup,6.0,2023/24,1
+1.2.0_2023-10-10,2023-10-10,England,Bangladesh,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,Bangladesh,field,England,runs,137,ICC Cricket World Cup,7.0,2023/24,1
+1.2.0_2023-10-10,2023-10-10,Sri Lanka,Pakistan,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Sri Lanka,bat,Pakistan,wickets,6,ICC Cricket World Cup,8.0,2023/24,0
+1.2.0_2023-10-12,2023-10-12,South Africa,Australia,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Australia,field,South Africa,runs,134,ICC Cricket World Cup,10.0,2023/24,1
+1.2.0_2023-10-13,2023-10-13,Bangladesh,New Zealand,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,New Zealand,field,New Zealand,wickets,8,ICC Cricket World Cup,11.0,2023/24,0
+1.2.0_2023-10-14,2023-10-14,Pakistan,India,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,India,field,India,wickets,7,ICC Cricket World Cup,12.0,2023/24,0
+1.2.0_2023-10-16,2023-10-16,Sri Lanka,Australia,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Sri Lanka,bat,Australia,wickets,5,ICC Cricket World Cup,14.0,2023/24,0
+1.2.0_2023-10-17,2023-10-17,Netherlands,South Africa,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,South Africa,field,Netherlands,runs,38,ICC Cricket World Cup,15.0,2023/24,1
+1.2.0_2023-10-19,2023-10-19,Bangladesh,India,"Maharashtra Cricket Association Stadium, Pune",Pune,Bangladesh,bat,India,wickets,7,ICC Cricket World Cup,17.0,2023/24,0
+1.2.0_2023-10-20,2023-10-20,Australia,Pakistan,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Pakistan,field,Australia,runs,62,ICC Cricket World Cup,18.0,2023/24,1
+1.2.0_2023-10-21,2023-10-21,Netherlands,Sri Lanka,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Netherlands,bat,Sri Lanka,wickets,5,ICC Cricket World Cup,19.0,2023/24,0
+1.2.0_2023-10-21,2023-10-21,South Africa,England,"Wankhede Stadium, Mumbai",Mumbai,England,field,South Africa,runs,229,ICC Cricket World Cup,20.0,2023/24,1
+1.2.0_2023-10-22,2023-10-22,New Zealand,India,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,India,field,India,wickets,4,ICC Cricket World Cup,21.0,2023/24,0
+1.2.0_2023-10-24,2023-10-24,South Africa,Bangladesh,"Wankhede Stadium, Mumbai",Mumbai,South Africa,bat,South Africa,runs,149,ICC Cricket World Cup,23.0,2023/24,1
+1.2.0_2023-10-25,2023-10-25,Australia,Netherlands,"Arun Jaitley Stadium, Delhi",Delhi,Australia,bat,Australia,runs,309,ICC Cricket World Cup,24.0,2023/24,1
+1.2.0_2023-10-26,2023-10-26,England,Sri Lanka,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,England,bat,Sri Lanka,wickets,8,ICC Cricket World Cup,25.0,2023/24,0
+1.2.0_2023-10-27,2023-10-27,Pakistan,South Africa,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Pakistan,bat,South Africa,wickets,1,ICC Cricket World Cup,26.0,2023/24,0
+1.2.0_2023-10-28,2023-10-28,Australia,New Zealand,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,New Zealand,field,Australia,runs,5,ICC Cricket World Cup,27.0,2023/24,1
+1.2.0_2023-10-28,2023-10-28,Netherlands,Bangladesh,"Eden Gardens, Kolkata",Kolkata,Netherlands,bat,Netherlands,runs,87,ICC Cricket World Cup,28.0,2023/24,1
+1.2.0_2023-10-29,2023-10-29,India,England,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,England,field,India,runs,100,ICC Cricket World Cup,29.0,2023/24,1
+1.2.0_2023-10-31,2023-10-31,Bangladesh,Pakistan,"Eden Gardens, Kolkata",Kolkata,Bangladesh,bat,Pakistan,wickets,7,ICC Cricket World Cup,31.0,2023/24,0
+1.2.0_2023-11-01,2023-11-01,South Africa,New Zealand,"Maharashtra Cricket Association Stadium, Pune",Pune,New Zealand,field,South Africa,runs,190,ICC Cricket World Cup,32.0,2023/24,1
+1.2.0_2023-11-02,2023-11-02,India,Sri Lanka,"Wankhede Stadium, Mumbai",Mumbai,Sri Lanka,field,India,runs,302,ICC Cricket World Cup,33.0,2023/24,1
+1.2.0_2023-11-04,2023-11-04,New Zealand,Pakistan,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Pakistan,field,Pakistan,runs,21,ICC Cricket World Cup,35.0,2023/24,0
+1.2.0_2023-11-04,2023-11-04,Australia,England,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,England,field,Australia,runs,33,ICC Cricket World Cup,36.0,2023/24,1
+1.2.0_2023-11-05,2023-11-05,India,South Africa,"Eden Gardens, Kolkata",Kolkata,India,bat,India,runs,243,ICC Cricket World Cup,37.0,2023/24,1
+1.2.0_2023-11-06,2023-11-06,Sri Lanka,Bangladesh,"Arun Jaitley Stadium, Delhi",Delhi,Bangladesh,field,Bangladesh,wickets,3,ICC Cricket World Cup,38.0,2023/24,0
+1.2.0_2023-11-08,2023-11-08,England,Netherlands,"Maharashtra Cricket Association Stadium, Pune",Pune,England,bat,England,runs,160,ICC Cricket World Cup,40.0,2023/24,1
+1.2.0_2023-11-09,2023-11-09,Sri Lanka,New Zealand,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,New Zealand,field,New Zealand,wickets,5,ICC Cricket World Cup,41.0,2023/24,0
+1.2.0_2023-11-11,2023-11-11,Bangladesh,Australia,"Maharashtra Cricket Association Stadium, Pune",Pune,Australia,field,Australia,wickets,8,ICC Cricket World Cup,43.0,2023/24,0
+1.2.0_2023-11-11,2023-11-11,England,Pakistan,"Eden Gardens, Kolkata",Kolkata,England,bat,England,runs,93,ICC Cricket World Cup,44.0,2023/24,1
+1.2.0_2023-11-12,2023-11-12,India,Netherlands,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,India,bat,India,runs,160,ICC Cricket World Cup,45.0,2023/24,1
+1.2.0_2023-11-15,2023-11-15,India,New Zealand,"Wankhede Stadium, Mumbai",Mumbai,India,bat,India,runs,70,ICC Cricket World Cup,,2023/24,1
+1.2.0_2023-11-16,2023-11-16,South Africa,Australia,"Eden Gardens, Kolkata",Kolkata,South Africa,bat,Australia,wickets,3,ICC Cricket World Cup,,2023/24,0
+1.2.0_2023-11-19,2023-11-19,India,Australia,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Australia,field,Australia,wickets,6,ICC Cricket World Cup,,2023/24,0

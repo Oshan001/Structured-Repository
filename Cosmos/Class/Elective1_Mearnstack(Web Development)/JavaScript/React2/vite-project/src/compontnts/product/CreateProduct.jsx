@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import axios from "axios";
+import { toast } from 'react-toastify';
 
 const CreateProduct = () => {
 
@@ -14,7 +15,7 @@ const CreateProduct = () => {
         let data ={
           name:name,
           price:price,
-          quantity:quantity,
+          Quantity:quantity,
           description:description,
         };
         console.log(data);
@@ -33,8 +34,16 @@ const CreateProduct = () => {
           method:"post",
           data:data
         });
+
+        toast.success("Product connected");
+        setName('');
+        setPrice('');
+        setQuantity("");
+        setDescription('');
+      
         } catch (error) {
-          
+          // console.log(error.response.data.message)
+          toast.error(error.response.data.message)
         }
        
     };
@@ -45,29 +54,26 @@ const CreateProduct = () => {
         <div>
           <div>
             <label htmlFor='name'>Name</label>
-            <input text="text"
-            id='name'
-            value={name}
-             onChange={(e)=>{
+            <input text="text" id='name' value={name} onChange={(e)=>{
               setName(e.target.value);
             }}  />
           </div>
           <div>
             <label htmlFor="price">Price</label>
-            <input type='number' id="price" onChange={(e)=>{
+            <input  type='number' value = {price}  id="price"   onChange={(e)=>{
               setPrice(e.target.value);
             }
             } />
           </div>
           <div>
             <label htmlFor="quality">Quantity</label>
-            <input type='number' id="quality" onChange={(e)=>{
+            <input type='number' value ={quantity} id="quality" onChange={(e)=>{
               setQuantity(e.target.value);
             }} />
           </div>
           <div>
             <label htmlFor="description">Description</label>
-            <textarea id="description" onChange={(e)=>{
+            <textarea id="description" value = {description} onChange={(e)=>{
               setDescription(e.target.value);
             }}/>
           </div>

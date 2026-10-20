@@ -1,12 +1,14 @@
+import axios from "axios";
 import React, { useState } from "react";
+import { toast } from "react-toastify";
 
-const CreateProduct = () => {
+const CreateUser = () => {
   let [name,setName] = useState("oshan");
   let [address,setAddress] = useState("");
   let [email,setEmail] = useState("");
   let [password,setPassword] = useState("");
   let [phone,setPhone] = useState("");
-  const handleSubmit = (e) => {
+  const handleSubmit = async(e) => {
     e.preventDefault();
    let data = {
     name : name,
@@ -15,17 +17,32 @@ const CreateProduct = () => {
     passowrd : password,
     phone : phone,
    }
-   console.log(data);
+try{
+  let result = await axios({
+            url:"http://localhost:8000/user",
+          method:"post",
+          data:data
+  });
+  toast.success("user Connected")
+  setName("");
+  setEmail("");
+  setPassword("");
+  setPhone("");
+  setAddress("");
+}catch(error){
+    toast.error(error.response.data.message)
+}
+
   };
 
   return (
     <div>
       <form onSubmit={handleSubmit}>
-        <h2>Create Product</h2>
+        <h2>Create User</h2>
 
         <div>
           <label htmlFor="Name">Name</label>
-          <input id = "name"  value = {name} type="text" placeholder="Enter product name" onChange={(e)=>{
+          <input id = "name"  value = {name} type="text" placeholder="Enter user name" onChange={(e)=>{
            
            setName(e.target.value);
           }} />
@@ -60,10 +77,10 @@ const CreateProduct = () => {
           }}/>
         </div>
 
-        <button type="submit">Create Product</button>
+        <button type="submit">Create User</button>
       </form>
     </div>
   );
 };
 
-export default CreateProduct;
+export default CreateUser;
